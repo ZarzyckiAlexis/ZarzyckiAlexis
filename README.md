@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Anticair'App**, an online marketplace for selling antiques<br>🌱 I’m currently learning **SQL Databases with Docker** & **Angular Development**<br>💬 Ask me about **Java, Spring Boot, Angular, SQL, HTML, CSS, and more**<br>📫 How to reach me: la219263@gmail.com<br>🌍 I speak **French** and **English**
+🔭 I’m currently working on **Anticair'App**, an online marketplace for selling antiques<br>🌱 I’m currently learning **SQL Databases with Docker** & **Angular Development**<br>💬 Ask me about **Java, Spring Boot, Angular, SQL, HTML, CSS, and more**<br>📫 How to reach me: la219263@student.helha.be<br>🌍 I speak **French** and **English**
 
 # 💻 Tech Stack:
 
